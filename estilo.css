@@ -1,0 +1,60 @@
+.headerTotal{
+    height: 14vh;
+    background-color: yellow;
+}
+
+
+.header{
+    height: 7vh;
+    text-align: center;
+}
+
+.headerBottom{
+    border-style: solid;
+    line-height: 6vh;
+}
+
+.search{
+    width: 500px;
+    margin-top: 2vh;
+    height: 3vh;
+}
+
+.options{
+    vertical-align: middle;
+    margin-right: 3vw;
+}
+
+.content{
+    background-color: rgb(224, 220, 220);
+    height: 86vh;
+    text-align: center;
+}
+
+.payment{
+    height: 13vh;
+    width: 80vw;
+    background-color: white;
+    display: inline-block;
+    margin-top: 5vh;
+    border-radius: 1vw;
+}
+
+.offer, .first{
+    height: 13vh;
+    width: 20vw;
+    float: left;
+    text-align: left;
+}
+
+.first{
+    border-right: solid rgb(0, 0, 0) 2px;
+}
+
+.title{
+    margin-top: 3.5vh;
+}
+
+.title, .subtitle{
+    margin-left: 1vw;
+} 
